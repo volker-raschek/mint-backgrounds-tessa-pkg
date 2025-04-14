@@ -1,7 +1,6 @@
 # mint-backgrounds-tessa
 
 ![AUR version](https://img.shields.io/aur/version/mint-backgrounds-tessa?label=AUR)
-[![Build Status](https://drone.cryptic.systems/api/badges/volker.raschek/mint-backgrounds-tessa-pkg/status.svg)](https://drone.cryptic.systems/volker.raschek/mint-backgrounds-tessa-pkg)
 ![AUR votes](https://img.shields.io/aur/votes/mint-backgrounds-tessa)
 
 This repository contains build files to build the Arch Linux package `mint-backgrounds-tessa`. Instead of building the
